@@ -1,0 +1,9 @@
+.echarts {
+    width: 100%;
+    height: 100%;
+}
+/* 删除el-card默认的下划线，由每个组件内部自行设置 */
+.el-card__header {
+    border-bottom: none;
+    padding: 0;
+}
