@@ -17,7 +17,7 @@
                 </div>
             </div>
         </template>
-    <!-- 向footer插槽中传值 -->
+    <!-- 向name为footer的插槽中传值 -->
         <template v-slot:footer>
             <div>
                 <span>昨日销售额</span>
